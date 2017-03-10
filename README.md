@@ -1,0 +1,2 @@
+# StickyExpandRecylerView
+利用github上的两个开源项目，自己定制了一个RecyclerView，它包含可点击扩展的一级item。 并且展开之后，上下滑动时，HeaderView可以固定在屏幕上方。
