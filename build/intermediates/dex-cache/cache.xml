@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/exploded-aar/StickyExpandRecylerView/stickyexpandrecylerview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9988935cf85c29989c3e77ea6983645937a9b499">
+        <dex dex="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/pre-dexed/debug/StickyExpandRecylerView-stickyexpandrecylerview-unspecified_43d1ccb050a34bb3027dcafb955dbaef14a41122.jar" />
+    </item>
+    <item
+        jar="/home/liujianfeng/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/pre-dexed/debug/butterknife-7.0.1_efc06d00bf7ee7b18debdaabed7c19efe6c13f3e.jar" />
+    </item>
+    <item
+        jar="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_8c24058d3ea80438b41eeada7598b98220d5879d.jar" />
+    </item>
+    <item
+        jar="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/exploded-aar/com.h6ah4i.android.widget.advrecyclerview/advrecyclerview/0.9.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3528b6dbb734dcd9567e889f2c1d2d634f9cd788">
+        <dex dex="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/pre-dexed/debug/com.h6ah4i.android.widget.advrecyclerview-advrecyclerview-0.9.1_af94cf19d4869fd96cd9cddd9d5ee36c7aab759e.jar" />
+    </item>
+    <item
+        jar="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_2b0d9b3d0de62bfe90055fc27447cbe817d35500.jar" />
+    </item>
+    <item
+        jar="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a16c134c5a3f29e5303fb3aa9d2cdd84e92f3801.jar" />
+    </item>
+    <item
+        jar="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_abefb341a6885917250bb0bfd90c885dfc9a6170.jar" />
+    </item>
+    <item
+        jar="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_110e944ea31d27f394151d42524f754ab1dc7227.jar" />
+    </item>
+    <item
+        jar="/home/liujianfeng/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_8ad0ffd62371e32b3c5479322d4aeaddeb84667e.jar" />
+    </item>
+    <item
+        jar="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_e0941882e8e88a42455c4ee8218107040a99528e.jar" />
+    </item>
+    <item
+        jar="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/exploded-aar/com.orhanobut/logger/1.15/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="/home/liujianfeng/Android/work/gitoschina/StickyExpandRecylerView/example/build/intermediates/pre-dexed/debug/com.orhanobut-logger-1.15_695e462ef7636c0abda6566138cb17c901a5f8e8.jar" />
+    </item>
+
+</items>
